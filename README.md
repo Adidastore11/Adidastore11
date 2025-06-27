@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adidastore11</h1>
+<h1 align="center">Welcome Dida Store</h1>
 <h3 align="center">👋 Hi, I’m Dida – a passionate Web Developer with a focus on creating clean, responsive, and user-friendly websites and web applications. 💻 I work with modern technologies like HTML, CSS, JavaScript, React, Node.js, and Laravel to build fullstack solutions. 🚀 Currently deepening my skills in DevOps and exploring performance optimization for scalable systems. 🌱 Always learning. Always building. 📫 Reach me at: dida@email.com</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adidastore11&label=Profile%20views&color=0e75b6&style=flat" alt="adidastore11" /> </p>
